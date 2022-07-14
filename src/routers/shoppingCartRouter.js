@@ -92,7 +92,9 @@ shoppingCartRouter.delete("/:id/productos/:id_prod", async (req, res) => {
 
         const index = shoppingCart.products.findIndex(prod => prod.id === product.id);
 
-        if(index != 1){
+        //if the product is not in the shopping cart, it returns -1
+        if(index != -1){
+            //ERROR: delete all the products of the same code, I only want to reduce the quantity in this case there is more than 1 of the same product
             shoppingCart.products = shoppingCart.products.slice(index, 1);
 
             const updatedShoppingCart = await ShoppingCartApi.updateById(id, shoppingCart);
