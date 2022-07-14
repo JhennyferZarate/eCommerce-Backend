@@ -1,29 +1,29 @@
 [
   {
-    "name": "uno",
-    "description": "sadadasdasd",
-    "code": "5454554",
-    "thumbnail": "sdfaffdsfa",
-    "price": 45,
-    "stock": 455,
+    "name": "Televisor Samsung Smart TV 55' UHD 4K",
+    "description": "Ten una calidad de imagen deslumbrante gracias a la nueva TV modelo Ultra HD con sistema Smart que Samsung tiene para ti.",
+    "code": "75UP8040PSB",
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/UN55AU7090G_1.jpg",
+    "price": 1999,
+    "stock": 20,
     "id": 1
   },
   {
-    "name": "dos",
-    "description": "sadadasdasd",
-    "code": "5454554",
-    "thumbnail": "sdfaffdsfa",
-    "price": 45,
-    "stock": 455,
+    "name": "TV LG UHD 65' 4k Smart ThinQ AI",
+    "description": "Ten una calidad de imagen deslumbrante gracias a la nueva TV modelo 4K Ultra HD con sistema Smart que LG tiene para ti.",
+    "code": "65UQ8050PSB",
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/65UQ8050PSB_1.jpg",
+    "price": 2999,
+    "stock": 15,
     "id": 2
   },
   {
-    "name": "tres",
-    "description": "sadadasdasd",
-    "code": "5454554",
-    "thumbnail": "sdfaffdsfa",
-    "price": 45,
-    "stock": 455,
+    "name": "TV Hisense LED A6H 55' Ultra HD HDR 10 Smart",
+    "description": "Ten una calidad de imagen deslumbrante gracias a la nueva TV modelo Ultra HD con sistema Smart que Hisense tiene para ti.",
+    "code": "45UE8050PUB",
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/55A6H_1.jpg",
+    "price": 2459,
+    "stock": 5,
     "id": 3
   }
 ]
