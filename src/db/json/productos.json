@@ -1,0 +1,29 @@
+[
+  {
+    "name": "uno",
+    "description": "sadadasdasd",
+    "code": "5454554",
+    "thumbnail": "sdfaffdsfa",
+    "price": 45,
+    "stock": 455,
+    "id": 1
+  },
+  {
+    "name": "dos",
+    "description": "sadadasdasd",
+    "code": "5454554",
+    "thumbnail": "sdfaffdsfa",
+    "price": 45,
+    "stock": 455,
+    "id": 2
+  },
+  {
+    "name": "tres",
+    "description": "sadadasdasd",
+    "code": "5454554",
+    "thumbnail": "sdfaffdsfa",
+    "price": 45,
+    "stock": 455,
+    "id": 3
+  }
+]

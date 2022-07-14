@@ -1,0 +1,16 @@
+[
+   {
+      "products": [
+         {
+            "name": "uno",
+            "description": "sadadasdasd",
+            "code": "5454554",
+            "thumbnail": "sdfaffdsfa",
+            "price": 45,
+            "stock": 455,
+            "id": 1
+         }
+      ],
+      "id": 1
+   }
+]
