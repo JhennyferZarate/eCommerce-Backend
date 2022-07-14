@@ -4,9 +4,9 @@ import Joi from "joi";
 // and if not, it returns an exception that we can catch with the catch
 
 const product = Joi.object({
-    name: Joi.string().min(3).max(45).required(),
-    description: Joi.string().min(5).max(60).required(),
-    code: Joi.string().min(3).max(8).required(),
+    name: Joi.string().min(3).max(60).required(),
+    description: Joi.string().min(5).max(220).required(),
+    code: Joi.string().min(3).max(12).required(),
     thumbnail: Joi.string().min(5).max(180).required(),
     price: Joi.number().required(),
     stock: Joi.number().required(),
